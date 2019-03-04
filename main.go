@@ -1,7 +1,7 @@
 package main
 
 import (
-	"report/routers"
+	"trellotest/routers"
 
 	"github.com/gin-gonic/gin"
 )

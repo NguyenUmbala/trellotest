@@ -1,7 +1,7 @@
 package delivery
 
 import (
-	"report/modules"
+	"trellotest/modules"
 
 	"github.com/adlio/trello"
 )

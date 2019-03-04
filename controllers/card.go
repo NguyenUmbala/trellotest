@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"report/database"
-	"report/modules"
+	"trellotest/database"
+	"trellotest/modules"
 
 	"github.com/adlio/trello"
 

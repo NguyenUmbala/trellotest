@@ -1,6 +1,6 @@
 package controllers
 
-import "report/delivery"
+import "trellotest/delivery"
 
 var Consumer delivery.Delivery
 
